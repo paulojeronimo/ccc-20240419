@@ -1,0 +1,4 @@
+*.out
+!*_example.out
+*.err
+*.all
